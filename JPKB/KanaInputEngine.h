@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "KeyboardView.h"
+//#import "KeyboardView.h"
 
 @interface KanaInputEngine : NSObject
 

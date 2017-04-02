@@ -468,9 +468,11 @@
 				TargetAttributes = {
 					14E656D819D8239100A74B85 = {
 						CreatedOnToolsVersion = 6.0.1;
+						DevelopmentTeam = AVWWV46Y77;
 					};
 					14E6570519D823FD00A74B85 = {
 						CreatedOnToolsVersion = 6.0.1;
+						DevelopmentTeam = AVWWV46Y77;
 					};
 				};
 			};
@@ -657,6 +659,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = AVWWV46Y77;
 				INFOPLIST_FILE = JapaneseKeyboardKit/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -667,6 +670,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = AVWWV46Y77;
 				INFOPLIST_FILE = JapaneseKeyboardKit/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -676,6 +680,7 @@
 		14E6571319D823FD00A74B85 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = AVWWV46Y77;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
@@ -701,6 +706,7 @@
 		14E6571419D823FD00A74B85 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = AVWWV46Y77;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
